@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cfI2vX9-AYnkxU42mjPP-1" value="&lt;h1 style=&quot;&quot;&gt;Необходимо затащить в PIM свойства товара учебной литературы и канцелярки в будущем&lt;/h1&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Необходимо это для того, чтобы более детально строить структуру каталога, в зависимости от атрибутов товара.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;На текущий момент атрибутами манипулирует &lt;strong&gt;libra&lt;/strong&gt;, собирая значения из файлов. В файле указывается &lt;strong&gt;bookId&lt;/strong&gt; и значение атрибута в текстовом виде. Идентификаторы для каждого значения атрибута генерируются инкрементально, если встретилось новое выписывается новый &lt;strong&gt;id&lt;/strong&gt;.&amp;nbsp;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1050" width="370" height="370" as="geometry" />
+          <mxGeometry x="30" y="-1090" width="370" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
